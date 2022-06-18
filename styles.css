@@ -1,0 +1,185 @@
+body {
+    background: white;
+
+    font-size: 18;
+    font-weight: normal;
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+
+}
+
+a {
+    color: rgb(255, 4, 88);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.kot {
+    width: 220px;
+    margin: 10 auto 10;
+    display: block;
+}
+
+@media (max-widht: 700px) {
+    .kot {
+        display: block;
+        text-align: center;
+    }
+}
+
+.po {
+    font-size: 20;
+}
+
+.no {
+    text-decoration-line: underline;
+}
+
+.xo p {
+    margin: 0%;
+}
+
+.stix p {
+margin: 0;
+font-style: italic;
+font-weight: bold;
+word-spacing: 5;
+text-align: center;
+margin: 3 auto;
+padding: 4 ;
+margin: 6;
+}
+
+.container
+{
+    max-width: 950;
+    margin: auto;
+}
+
+.xi {
+    background: rgb(255, 252, 237);
+    padding: 15 40;
+    border: 5px solid rgb(148, 245, 58);
+    margin: 18;
+}
+
+.he {
+    text-align: center;
+}
+
+.ot {
+    text-align: center;
+    padding: 20 10;
+    margin: 0;
+}
+
+.dop {
+    padding: 15px 30px;
+    background: rgb(255, 212, 219);
+    margin-bottom: 10;
+    border-radius: 30px;
+    margin: 10;
+}
+
+.ti {
+    text-decoration-line: underline;
+}
+
+.shto {
+    text-align: center;
+    padding: 8px;
+}
+
+.o {
+    height: 2px;
+}
+
+.pro {
+    text-align: center;
+    padding: 8px;
+}
+
+.hh {
+    width: 50%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    color: black;
+    outline: none;
+    font-family: inherit;
+}
+
+.knop {
+    padding: 10px 15px;
+    margin: 16;
+    cursor: grab;
+}
+
+.fot {
+    position: absolute;
+    right: 470;
+}
+
+.b {
+position: absolute;
+top: px;
+left: 70;
+
+}
+
+.n {
+position: absolute;
+}
+
+.j {
+    position: absolute;
+    top: px;
+    right: 70;
+    width: 252;
+
+}
+
+.q {
+    position: absolute;
+    top: 3300;
+    right: 120;
+}
+
+.w {
+    position: absolute;
+    top: 530;
+    right:80;
+    width: 390;
+}
+
+.e {
+    position: absolute;
+    top: 3300;
+    left: 120;
+}
+
+.r {
+    position: absolute;
+    top: 550;
+    left: 80;
+    width: 350;
+}
+
+.t {
+    position: absolute;
+    top: 1960;
+    left: 120;
+    width: 300;
+    border-radius: 30px;
+}
+
+.y {
+     
+    position: absolute;
+    top: 1960;
+    right: 106;
+    width: 330;
+}
